@@ -1,5 +1,9 @@
-import React from 'react';
-import { shallow, mount, render } from 'enzyme';
+//import React from 'react';
+//import { shallow, mount, render } from 'enzyme';
+var React  = require("react");
+//var shallow= require("enzyme");
+//var mount= require("enzyme");
+//var render = require("enzyme");
 
 // const Starship = require('../starship/starship');
 //
